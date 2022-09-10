@@ -1,0 +1,12 @@
+{
+  "products": [
+    {
+      "title": "IPHONE",
+      "brand": "APPLE",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaYKot-SHc0okih-fDAuotNWLM6ZYWQSEMYDK4cyVcqQ&s",
+      "category": "MOBILE",
+      "price": "124000",
+      "id": 1
+    }
+  ]
+}
